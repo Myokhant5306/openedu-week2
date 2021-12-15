@@ -2,7 +2,7 @@
     "headers": {
         "*/": {
             "Access-Control-Allow-Origin": "*",
-            "X-Author": "hessian"
+            "X-Author": "myokhant"
         },
        
         "/login/": {
