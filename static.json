@@ -1,0 +1,18 @@
+{
+    "headers": {
+        "*/": {
+            "Access-Control-Allow-Origin": "*",
+            "X-Author": "hessian"
+        },
+       
+        "/login/": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "text/plain; charset=UTF-8"
+        },
+       
+        "/sample/": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "text/plain; charset=UTF-8"
+        }
+    }
+}
